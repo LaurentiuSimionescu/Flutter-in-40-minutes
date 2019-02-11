@@ -1,7 +1,8 @@
+![](https://github.com/LaurentiuSimionescu/Flutter-in-40-minutes/blob/master/flutter.jpeg)
 # Whatsapp Flutter
 Small app made with Flutter.
 
-![test image size](https://github.com/LaurentiuSimionescu/Flutter-in-40-minutes/blob/master/whatsapp_flutter.gif)
+![](https://github.com/LaurentiuSimionescu/Flutter-in-40-minutes/blob/master/whatsapp_flutter.gif)
 
 ## Getting Started
 
