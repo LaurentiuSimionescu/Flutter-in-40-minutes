@@ -1,6 +1,5 @@
-# flutter_demo_app
-
-A new Flutter application.
+# Whatsapp Flutter
+Small app made with Flutter.
 
 ## Getting Started
 
