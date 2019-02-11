@@ -1,6 +1,8 @@
 # Whatsapp Flutter
 Small app made with Flutter.
 
+![test image size](https://github.com/LaurentiuSimionescu/Flutter-in-40-minutes/blob/master/whatsapp_flutter.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
