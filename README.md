@@ -1,4 +1,3 @@
-![](https://github.com/LaurentiuSimionescu/Flutter-in-40-minutes/blob/master/flutter.jpeg)
 # Whatsapp Flutter
 Small app made with Flutter.
 
